@@ -75,6 +75,12 @@
 - nejen hry, ale i užitečné programy
   - [team generator](https://scratch.mit.edu/projects/1206172418)
 
+- co jsme vytvořili na minulém kroužku
+  - [zombie shooter](https://scratch.mit.edu/projects/1206318054)
+
+- co vytvořil jeden z žáků
+  - [plants vs zombies](https://scratch.mit.edu/projects/1176335113)
+
 ## Přihlášení do studentských profilů (9:45-10:15)
 
 - do vyhledavače zadat `Scratch` -> Sign in 
@@ -97,7 +103,41 @@
   - Create - rovnou nás přemístí do editoru a můžeme vytvářet projekt
   - Explore - obsahuje nasdílené projekty od ostatních tvůrců
 
-## Tvoříme svůj první program
+## Tvoříme svůj první program (10:45-11:30)
+
+- poznámka: já budu primárně říkat jen motivaci, budu se jich ptát, jak si myslí, že toho docílíme
+  - oni sami vše zkusí vymyslet
+  - zatím budou dělat přesně to samé co já, poté dám prostor na vlastní prozkoumávání a zadám úkoly
+
+- budeme chtít dosáhnout [tohoto](https://scratch.mit.edu/projects/1206390177/)
+
+- ukážeme si
+  - jak spouštět jednotlivé bloky uvnitř oblasti pro kód
+  - jak zřetězit více bloků do jednoho skriptu, tedy jedné sekvence bloků
+    - v jakém pořadí se jednotlivé bloky provádějí?
+
+- 1. chůze vpřed
+  - jak udělat delší krok?
+  - jak udělat krok vzad?
+- 2. ovládání jako joystickem - nastavíme směr a hned tím směrem vykročíme
+  - jaké pořadí příkazů je správné?
+  - závisí vůbec na pořadí, v jakém na sebe jednotlivé bloky položíme?
+- 3. automatizace pomocí událostí
+  - jak způsobit, aby se kód provedl po stisknutí odpovídající šipky na klávesnici
+- 4. chtěli bychom aby motýl mával křídly
+  - v záložkách je záložka kostýmy
+  - každá postava má kostýmy, které můžeme manuálně přepnout
+  - v kategorii vzhled však můžeme přepínat i pomocí bloků a tak to automatizovat
+- 5. mávání i když neměním pozici
+  - jak toho docílit?
+  - můžu stále klikat myší, ale z toho mě bude brzy bolet prst
+  - na řadu přijde nekonečný cyklus
+
+- úkoly
+  - 1. chtěl bych, aby motýl neustále letěl rovně a abych šipkami pouze měnil jeho směr
+  - 2. motýl začne mávat křídly automaticky po kliknutí na vlaječku
+  - 3. stisknutím mezerníku udělá kotoul na místě ve vzduchu
+  - 4. po kliknutí na motýla motýl problikne a na chvilku se zvětší
 
 ## Oběd
 
