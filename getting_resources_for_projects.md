@@ -12,6 +12,10 @@
 - possibly also [pixabay](https://pixabay.com/sound-effects/)
   - no login needed
 
+## Getting images
+
+- [svg repo](https://www.svgrepo.com/)
+
 ## Removing background from images
 
 - use windows background remover in paint to remove background from images with clearly defined background
