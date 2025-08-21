@@ -14,3 +14,13 @@
   - ninja
   - sporty - ultimate frisbee, vybíjená
   - šifrovačky? (běhají pro lístečky, které musejí rozšifrovat a sdělit svému týmu)
+
+## Podrobná prep
+
+- pro zajímavost si ukážeme statistiku
+  - [statistiky o Scratchi](https://scratch.mit.edu/statistics/)
+
+- opakování, co jsme se naučili včera
+
+- hra dle vlastního uvážení (jen ne moc složitá)
+- nebo společně děláme ...
