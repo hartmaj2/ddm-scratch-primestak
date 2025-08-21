@@ -15,6 +15,7 @@
 ## Getting images
 
 - [svg repo](https://www.svgrepo.com/)
+- [animated sprites](https://opengameart.org/)
 
 ## Removing background from images
 
