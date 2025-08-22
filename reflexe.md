@@ -34,6 +34,11 @@
   - pirátská loď - inspirovaná myškou, která běží za sýrem
   - bomb avoider, pizza catcher, asteroid shooter - inspirovaný opičkou
 
+- před tvorbou nového projektu zamyšlení
+  - co už zvládneme naprogramovat (co je podobné s minulými hrami)
+  - co je ale nové a ještě to nezvládneme
+  - čím bude dobré začít? co se jim zdá nejtěžší a co nejjednodušší?
+
 ## Co se nepovedlo
 
 ### Technické
