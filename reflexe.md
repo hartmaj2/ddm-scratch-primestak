@@ -30,6 +30,10 @@
 - aukce odměn na konec byla super
   - jen by to chtělo lepší odměny viz. sekce co zlepšit
 
+- dobrý nápad, byl použít projekty od Krakena (Vojty Benýška), který vystudoval pedagogiku informatiky
+  - pirátská loď - inspirovaná myškou, která běží za sýrem
+  - bomb avoider, pizza catcher, asteroid shooter - inspirovaný opičkou
+
 ## Co se nepovedlo
 
 ### Technické
@@ -42,6 +46,8 @@
 
 - už by to chtělo stabilnější internet v ddmku
   - rychlost je celkem ok, ale občas vypadne a je to na dlouho, než se to nahodí
+
+- nezahlcovat je příliš mnoho odkazy, svgrepo už jsem nejspíš nemusel ukazovat (nebo lépe ukázat, v čem je výhoda toho)
 
 ### Co děti moc nebavilo
 
