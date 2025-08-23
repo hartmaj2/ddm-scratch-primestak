@@ -77,6 +77,8 @@
   - třeba na pizze, jaký úhel svírají jaké dílky
   - výklad pěkně nacvičit
 
+- na zopakování úhlů použít kreslení obrazců pomocí pera
+
 - lépe si připravit vysvětlení souřadnic
   - hledání pokladů je fajn, ale udělat ho jednodušší
   - možná přidat nějakou aktivitu na souřadnice mimo počítače
