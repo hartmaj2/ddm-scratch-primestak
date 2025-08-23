@@ -39,6 +39,8 @@
   - co je ale nové a ještě to nezvládneme
   - čím bude dobré začít? co se jim zdá nejtěžší a co nejjednodušší?
 
+- jmenovky na počítačích (akorát bude potřeba je po každém kroužku schovat a zase vyndat, podobně se žetony)
+
 ## Co se nepovedlo
 
 ### Technické
